@@ -12,7 +12,7 @@
 
 # 1. Bölüm Veri Bilimi ve Yapay Zekaya Giriş
 
-![image-20221021160024519](C:\Users\BERKCAN\AppData\Roaming\Typora\typora-user-images\image-20221021160024519.png)
+![image](https://user-images.githubusercontent.com/75336900/197202416-7d7ff2cd-a769-4ea7-ad22-582df9b37335.png)
 
 #  2. Bölüm Veri Bilimi için Python Programlama 
 
