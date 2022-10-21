@@ -1,0 +1,21 @@
+<div align= "center">
+  <h1> Miuul Data Science Path</h1>
+  <img src="https://www.miuul.com/image/theme/logo-white.png" width="150px">
+  <img src="https://www.miuul.com/image/theme/logo-dark.png" width="150px">
+</div>
+
+
+- Miuul Data Science Path kapsamında tüm çalışamaları bu repoda detaylı bir şekilde paylaşıyor olacağım.
+- Path içerikleri  eğer ilginizi çekerse daha çok kişinin görmesi ve faydalanması için :star: vermeyi unutmayın.
+- Konu kapsamı aşağıdaki gibi sıralanabilir.
+- Bu harika path için Vahit Keskin hocama ve tüm Miuul ailesine teşekkür ederim.
+
+# 1. Bölüm Veri Bilimi ve Yapay Zekaya Giriş
+
+![image-20221021160024519](C:\Users\BERKCAN\AppData\Roaming\Typora\typora-user-images\image-20221021160024519.png)
+
+#  2. Bölüm Veri Bilimi için Python Programlama 
+
+- Çalışma Ortamı Ayarları
+- Veri Yapıları
+- Fonksiyonlar
