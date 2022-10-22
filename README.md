@@ -19,13 +19,8 @@
 - Çalışma Ortamı Ayarları
 - Veri Yapıları
 - Fonksiyonlar
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 - Karar Kontrol Yapıları
 - Döngüler
 - Enumerate
 - Map, Filter, Reduce, Zip, Lambda
-=======
->>>>>>> 746c76da400e092b7803df7a6f3336c7d3c7abc7
->>>>>>> Stashed changes
+
