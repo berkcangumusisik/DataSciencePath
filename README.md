@@ -23,4 +23,5 @@
 - Döngüler
 - Enumerate
 - Map, Filter, Reduce, Zip, Lambda
+- List Comprehension
 
