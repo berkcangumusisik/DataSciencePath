@@ -24,4 +24,17 @@
 - Enumerate
 - Map, Filter, Reduce, Zip, Lambda
 - List Comprehension
+- Python ile Veri Analizi: NumPy
+- Python ile Veri Analizi: Pandas
+- Matplotlib Kütüphanesi
+- Seaborn Kütüphanesi
+- Gelişmiş Fonksiyonel Keşifçi Veri Analizi
+<br>
+
+![image](https://user-images.githubusercontent.com/75336900/199428851-7b936360-e014-42b3-b392-7f61fb633123.png)
+
+
+# Feature Engineering (Özellik Mühendisliği)
+- Özellik Mühendisliği Nedir?
+- Aykırı Değer Analizi(Outliers)
 
