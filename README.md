@@ -37,4 +37,4 @@
 # Feature Engineering (Özellik Mühendisliği)
 - Özellik Mühendisliği Nedir?
 - Aykırı Değer Analizi(Outliers)
-
+- Eksik Veri Analizi(Missing Values)
