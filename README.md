@@ -38,3 +38,8 @@
 - Özellik Mühendisliği Nedir?
 - Aykırı Değer Analizi(Outliers)
 - Eksik Veri Analizi(Missing Values)
+- Encoding Scaling
+  - Label Encoding
+  - One Hot Encoding
+  - Rare Encoding
+  - Özellik Ölçeklendirme (Feature Scaling)
