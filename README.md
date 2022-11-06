@@ -36,16 +36,27 @@
 
 # Feature Engineering (Özellik Mühendisliği)
 - Özellik Mühendisliği Nedir?
+
 - Aykırı Değer Analizi(Outliers)
+
 - Eksik Veri Analizi(Missing Values)
+
 - Encoding Scaling
   - Label Encoding
   - One Hot Encoding
   - Rare Encoding
   - Özellik Ölçeklendirme (Feature Scaling)
+  
 - Feature Extraction(Özellik Çıkarımı)
   - Binary Features
   - Text Features
   - Date Features
   - Feature Interactions
+  
 - Uygulama
+
+- Proje 1 
+
+- Proje 2
+
+  ![image-20221106223724310](C:\Users\BERKCAN\AppData\Roaming\Typora\typora-user-images\image-20221106223724310.png)
