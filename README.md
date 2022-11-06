@@ -43,3 +43,9 @@
   - One Hot Encoding
   - Rare Encoding
   - Özellik Ölçeklendirme (Feature Scaling)
+- Feature Extraction(Özellik Çıkarımı)
+  - Binary Features
+  - Text Features
+  - Date Features
+  - Feature Interactions
+- Uygulama
