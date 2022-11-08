@@ -59,4 +59,12 @@
 
 - Proje 2
 
-  ![image-20221106223724310](C:\Users\BERKCAN\AppData\Roaming\Typora\typora-user-images\image-20221106223724310.png)
+ ![image](https://user-images.githubusercontent.com/75336900/200515839-86285faf-e173-411e-9478-f4f87318cd35.png)
+ 
+ # 3. Bölüm Makine Öğrenmesi
+- Makine Öğrenmesi Nedir?
+- Değişken Türleri
+  - Sayısal Değişkenler
+  - Kategorik Değişken
+  - Bağımsız Değişken
+  - Bağımlı Değişken
