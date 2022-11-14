@@ -68,3 +68,14 @@
   - Kategorik Değişken
   - Bağımsız Değişken
   - Bağımlı Değişken
+- Öğrenme Türleri
+  - Denetimli Öğrenme
+  - Denetimsiz Öğrenme
+  - Pekiştirmeli Öğrenme
+- Problem Türleri
+- Model Başarısı Değerlendirme Yöntemleri
+- Model Doğrulama Yöntemleri
+  - Sınama Seti Yöntemi
+  - K-Katlı Çapraz Doğrulama 
+- Yanlılık Varyans Değiş Tokuşu
+- Doğrusal Regresyon
