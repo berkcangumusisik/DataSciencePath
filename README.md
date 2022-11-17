@@ -79,3 +79,6 @@
   - K-Katlı Çapraz Doğrulama 
 - Yanlılık Varyans Değiş Tokuşu
 - Doğrusal Regresyon
+- Lojistik Regresyon
+- Maaş Tahmini Projesi
+- THY Sektör Projesi
