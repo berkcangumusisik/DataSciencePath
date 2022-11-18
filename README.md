@@ -82,3 +82,4 @@
 - Lojistik Regresyon
 - Maaş Tahmini Projesi
 - THY Sektör Projesi
+- KNN(K-En Yakın Komşu)
