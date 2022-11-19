@@ -83,3 +83,4 @@
 - Maaş Tahmini Projesi
 - THY Sektör Projesi
 - KNN(K-En Yakın Komşu)
+- CART (Classification and Regression Trees)
