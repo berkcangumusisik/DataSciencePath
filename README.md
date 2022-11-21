@@ -84,3 +84,5 @@
 - THY Sektör Projesi
 - KNN(K-En Yakın Komşu)
 - CART (Classification and Regression Trees)
+- Scoutium Makine Öğrenmesi ile Yetenek Avcılığı Sınıflandırma
+- Ev Fiyat Tahmin Modeli Oluşturma
