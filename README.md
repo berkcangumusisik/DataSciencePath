@@ -99,4 +99,5 @@
       - Temel Bileşen Analizi
 - Pipeline
 - FLO Gözetimsiz Öğrenme İle Müşteri Segmentasyonu
+![image](https://user-images.githubusercontent.com/75336900/203383974-15470db9-ae73-4ba8-816a-3fdd03bbbd93.png)
 
