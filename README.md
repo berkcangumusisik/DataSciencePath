@@ -84,5 +84,19 @@
 - THY Sektör Projesi
 - KNN(K-En Yakın Komşu)
 - CART (Classification and Regression Trees)
+- Random Forest
+- Gradient Boosting Machines
+- XGBoost (Extreme Gradient Boosting)
+- LightGBM (Light Gradient Boosting)
+- CatBoost
+- Dengesiz Veri Setleri
 - Scoutium Makine Öğrenmesi ile Yetenek Avcılığı Sınıflandırma
 - Ev Fiyat Tahmin Modeli Oluşturma
+- Müşteri Terk Tahmin Modeli Oluşturma
+- Denetimsiz Öğrenme
+      - K - Means
+      - Hiyerarşik Kümeleme Analizi
+      - Temel Bileşen Analizi
+- Pipeline
+- FLO Gözetimsiz Öğrenme İle Müşteri Segmentasyonu
+
