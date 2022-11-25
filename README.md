@@ -111,3 +111,4 @@
 - Sentiment Modeling
 - KOZMOS : Amazon Yorumları için Duygu Analizi
 - WIKIMEDIA Metin Ön İşleme ve Görselleştirme 
+![image](https://user-images.githubusercontent.com/75336900/203958897-4e7ea253-c6b3-45f9-8a5a-8882006864d0.png)
