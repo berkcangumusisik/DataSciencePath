@@ -106,4 +106,8 @@
 - Metin Ön İşleme 
   - Doğal Dil İşleme
   - Metin Ön İşleme
-- Metin Görselleştirme
+- Sentiment Analysis
+- Feature Engineering
+- Sentiment Modeling
+- KOZMOS : Amazon Yorumları için Duygu Analizi
+- WIKIMEDIA Metin Ön İşleme ve Görselleştirme 
