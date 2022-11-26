@@ -112,3 +112,7 @@
 - KOZMOS : Amazon Yorumları için Duygu Analizi
 - WIKIMEDIA Metin Ön İşleme ve Görselleştirme 
 ![image](https://user-images.githubusercontent.com/75336900/203958897-4e7ea253-c6b3-45f9-8a5a-8882006864d0.png)
+
+# 5.Bölüm Querying MS SQL
+
+![image](https://user-images.githubusercontent.com/75336900/204077137-04d8653c-3744-448f-978c-537c989166af.png)
